@@ -1,4 +1,4 @@
-# analyzer
+# CAnalyzer
 Code repository for CAnalyzer project - to analyze C programs using Abstract Interpretation with multiple domains.   
 
 TODO: update clang version   
